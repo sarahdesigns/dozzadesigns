@@ -729,7 +729,7 @@ section.contact h2 {  font-size: 31px;}
 section h2 { font-size: 31px; }
 }
 
-@media (max-height: 800px){
+@media (max-height: 1000px){
 	
 	header .device-container {
     max-width: none;
