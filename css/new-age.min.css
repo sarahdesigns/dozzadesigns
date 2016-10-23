@@ -336,11 +336,14 @@ header .header-content .header-content-inner {
     position: relative;
     max-width: 500px;
     margin: 0 auto;
-	text-align: left;
+	
 }
 
 header .header-content .header-content-inner ul {
 	list-style:none; 
+	padding-left: 0;
+    font-size: 18px;
+    margin-bottom: 32px;
 	}
 
 header .header-content .header-content-inner h1 {
