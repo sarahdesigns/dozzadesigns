@@ -673,3 +673,9 @@ img::-moz-selection {
     color: #fff;
     background: 0 0
 }
+
+/* Skills */
+
+.skillbars { background-color: #fd3d52!important;}
+
+/* Skills End */
