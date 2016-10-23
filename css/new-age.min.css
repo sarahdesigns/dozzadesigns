@@ -680,7 +680,12 @@ img::-moz-selection {
 .skills {
 	background: #1a173f;
     color: white; }
-.skills h2 {font-family: 'Scope One', serif;}
+.skills h2 {font-family: 'Scope One', serif; padding-bottom:10px;}
 .skills h3 {font-family: 'Scope One', serif; font-size: 20px; color:#d4fa84;}
+
+.tools {padding-top: 40px;}
+.tools ul {font-size: 18px;}
+
+.progress {margin-bottom:10px;}
 
 /* Skills End */
