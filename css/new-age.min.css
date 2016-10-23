@@ -335,8 +335,13 @@ header .header-content {
 header .header-content .header-content-inner {
     position: relative;
     max-width: 500px;
-    margin: 0 auto
+    margin: 0 auto;
+	text-align: left;
 }
+
+header .header-content .header-content-inner ul {
+	list-style:none; 
+	}
 
 header .header-content .header-content-inner h1 {
     margin-top: 0;
