@@ -738,3 +738,12 @@ section h2 { font-size: 31px; }
 	
 }
 }
+
+@media (max-width: 414px){
+
+header .device-container {
+    max-width: none;
+    max-height: calc(0vh);
+    margin-bottom: 175px!important; }
+	
+}
