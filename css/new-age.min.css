@@ -707,6 +707,6 @@ section.contact h2 {font-family: 'Scope One', serif; color:#fd3d52; text-transfo
 section.contact a {color:#fd3d52;}
 
 .resume {text-align: center; padding-top:40px;}
-.btn-resume  {background:#fd3d52; color:white!important;}
-.resume p {color:#d4fa84;}
+.btn-resume  {background:#fd3d52; color:white!important; margin-bottom:20px; margin-top:20px;}
+.resume p {color:#d4fa84; }
 .resume a {color:#fd3d52; }
