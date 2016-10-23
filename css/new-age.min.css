@@ -728,3 +728,13 @@ section.contact h2 {  font-size: 31px;}
 .me h3 { font-size: 19px;}
 section h2 { font-size: 31px; }
 }
+
+@media (max-height: 800px){
+	
+	header .device-container {
+    max-width: none;
+    max-height: calc(0vh);
+    margin: 200px auto 0;
+	
+}
+}
