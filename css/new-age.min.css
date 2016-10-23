@@ -346,8 +346,12 @@ header .header-content .header-content-inner ul {
 header .header-content .header-content-inner h1 {
     margin-top: 0;
     margin-bottom: 30px;
-    font-size: 30px
+    font-size: 30px;
+	font-family: 'Scope One', serif;
+    text-transform: uppercase;
 }
+
+header .header-content .header-content-inner h1 span{color: #fd3d52; }
 
 header .header-content .header-content-inner .list-badges {
     margin-bottom: 25px
