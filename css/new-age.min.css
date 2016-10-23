@@ -697,7 +697,16 @@ img::-moz-selection {
 .me h2 { font-family: 'Scope One', serif; color:white; }
 .me h3 {color:#1a173f; }
 .me p {color:white;}
-.me ul {color: white; font-size: 18px;}
+.me ul {color: white; font-size: 18px;  padding-top: 15px;}
 
 
 /* About End */
+
+
+section.contact h2 {font-family: 'Scope One', serif; color:#fd3d52; text-transform:uppercase;}
+section.contact a {color:#fd3d52;}
+
+.resume {text-align: center; padding-top:40px;}
+.btn-resume  {background:#fd3d52; color:white!important;}
+.resume p {color:#d4fa84;}
+.resume a {color:#fd3d52; }
