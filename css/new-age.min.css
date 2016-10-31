@@ -751,7 +751,7 @@ section h2 { font-size: 31px; }
 	
 header .device-container {    max-width: 100%;
     max-height: none;
-    margin: 0px;
+    margin: 0 auto;
     padding-bottom: 27px;}	
 
 }
