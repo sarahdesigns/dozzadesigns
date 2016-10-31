@@ -741,11 +741,17 @@ section h2 { font-size: 31px; }
 
 @media (max-width: 414px){
 
-header .device-container {
-    max-width: none;
-    max-height: calc(0vh);
-    margin-bottom: 175px!important; }
+
 	
 }
 
 .portfolio-modal .modal-content .item-details a {color: fd3d52;}
+
+@media (max-width: 767px) {
+	
+header .device-container {    max-width: 100%;
+    max-height: none;
+    margin: 0px;
+    padding-bottom: 27px;}	
+
+}
