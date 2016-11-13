@@ -7,7 +7,7 @@
 .heading-font {
     font-family: Scope One, Helvetica, Arial, sans-serif;
     font-weight: 200;
-    letter-spacing: 1px
+    letter-spacing: 1px;
 }
 
 .body-font {
@@ -17,18 +17,18 @@
 .alt-font {
     font-family: Lato, Helvetica, Arial, sans-serif;
     text-transform: uppercase;
-    letter-spacing: 2px
+    letter-spacing: 2px;
 }
 
 body,
 html {
     height: 100%;
-    width: 100%
+    width: 100%;
 }
 
 body {
     font-family: Quicksand, sans-serif;
-    webkit-tap-highlight-color: #222
+    webkit-tap-highlight-color: #222;
 }
 
 .navbar-default,
@@ -41,36 +41,36 @@ h5,
 h6 {
     font-family: Quicksand, sans-serif;
     font-weight: 200;
-    letter-spacing: 1px
+    letter-spacing: 1px;
 }
 
 a {
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
-    color: #fdcc52
+    color: #fdcc52;
 }
 
 a:focus,
 a:hover {
-    color: #fcbd20
+    color: #fcbd20;
 }
 
 hr {
     max-width: 100px;
     margin: 25px auto 0;
     border-width: 1px;
-    border-color: rgba(34, 34, 34, .1)
+    border-color: rgba(34, 34, 34, .1);
 }
 
 hr.light {
-    border-color: #fff
+    border-color: #fff;
 }
 
 p {
     font-size: 18px;
     line-height: 1.5;
-    margin-bottom: 20px
+    margin-bottom: 20px;
 }
 
 .navbar-default {
@@ -78,7 +78,7 @@ p {
     border-color: rgba(34, 34, 34, .05);
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
-    transition: all .35s
+    transition: all .35s;
 }
 
 .navbar-default .navbar-header .navbar-brand {
@@ -89,38 +89,38 @@ p {
 .navbar-default .nav>li>a {
     font-family: Lato, Helvetica, Arial, sans-serif;
     text-transform: uppercase;
-    letter-spacing: 2px
+    letter-spacing: 2px;
 }
 
 .navbar-default .navbar-header .navbar-brand:focus,
 .navbar-default .navbar-header .navbar-brand:hover {
-    color: #fcbd20
+    color: #fcbd20;
 }
 
 .navbar-default .navbar-header .navbar-toggle {
     font-size: 12px;
     color: #222;
-    padding: 8px 10px
+    padding: 8px 10px;
 }
 
 .navbar-default .nav>li>a {
-    font-size: 14px
+    font-size: 14px;
 }
 
 .navbar-default .nav>li>a,
 .navbar-default .nav>li>a:focus {
-    color: #222
+    color: #222;
 }
 
 .navbar-default .nav>li>a:focus:hover,
 .navbar-default .nav>li>a:hover {
-    color: #fd3d52
+    color: #fd3d52;
 }
 
 .navbar-default .nav>li.active>a,
 .navbar-default .nav>li.active>a:focus {
     color: #fd3d52!important;
-    background-color: transparent
+    background-color: transparent;
 }
 
 
@@ -131,14 +131,14 @@ Portfolio CSS Borrowed
 
 #portfolio .portfolio-item {
     margin: 0 0 15px;
-    right: 0
+    right: 0;
 }
 
 #portfolio .portfolio-item .portfolio-link {
     display: block;
     position: relative;
     max-width: 400px;
-    margin: 0 auto
+    margin: 0 auto;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption {
@@ -149,11 +149,11 @@ Portfolio CSS Borrowed
     opacity: 0;
     transition: all ease .5s;
     -webkit-transition: all ease .5s;
-    -moz-transition: all ease .5s
+    -moz-transition: all ease .5s;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption:hover {
-    opacity: 1
+    opacity: 1;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
@@ -164,27 +164,27 @@ Portfolio CSS Borrowed
     text-align: center;
     top: 50%;
     margin-top: -12px;
-    color: #fff
+    color: #fff;
 }
 
 .btn-social,
 .scroll-top,
 .scroll-top .btn {
     width: 50px;
-    height: 50px
+    height: 50px;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
-    margin-top: -12px
+    margin-top: -12px;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content h3,
 #portfolio .portfolio-item .portfolio-link .caption .caption-content h4 {
-    margin: 0
+    margin: 0;
 }
 
 #portfolio * {
-    z-index: 2
+    z-index: 2;
 }
 
 
@@ -196,20 +196,20 @@ Portfolio CSS Borrowed
     border: none;
     min-height: 100%;
     padding: 100px 0;
-    text-align: center
+    text-align: center;
 }
 
 .portfolio-modal .modal-content h2 {
     margin: 0;
-    font-size: 3em
+    font-size: 3em;
 }
 
 .portfolio-modal .modal-content img {
-    margin-bottom: 30px
+    margin-bottom: 30px;
 }
 
 .portfolio-modal .modal-content .item-details {
-    margin: 30px 0
+    margin: 30px 0;
 }
 
 .portfolio-modal .close-modal {
@@ -219,11 +219,11 @@ Portfolio CSS Borrowed
     background-color: transparent;
     top: 25px;
     right: 25px;
-    cursor: pointer
+    cursor: pointer;
 }
 
 .portfolio-modal .close-modal:hover {
-    opacity: .3
+    opacity: .3;
 }
 
 .portfolio-modal .close-modal .lr {
@@ -234,7 +234,7 @@ Portfolio CSS Borrowed
     transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     -webkit-transform: rotate(45deg);
-    z-index: 1051
+    z-index: 1051;
 }
 
 .portfolio-modal .close-modal .lr .rl {
@@ -244,12 +244,12 @@ Portfolio CSS Borrowed
     transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     -webkit-transform: rotate(90deg);
-    z-index: 1052
+    z-index: 1052;
 }
 
 .portfolio-modal .modal-backdrop {
     opacity: 0;
-    display: none
+    display: none;
 }
 
 /*
@@ -261,13 +261,13 @@ Portfolio CSS Borrowed - End
 
 .navbar-default .nav>li.active>a:focus:hover,
 .navbar-default .nav>li.active>a:hover {
-    background-color: transparent
+    background-color: transparent;
 }
 
 @media (min-width:768px) {
     .navbar-default {
         background-color: transparent;
-        border-color: transparent
+        border-color: transparent;
     }
     .navbar-default .navbar-header .navbar-brand {
         color: white;
@@ -277,7 +277,7 @@ Portfolio CSS Borrowed - End
     }
     .navbar-default .navbar-header .navbar-brand:focus,
     .navbar-default .navbar-header .navbar-brand:hover {
-        color: #fff
+        color: #fff;
     }
     .navbar-default .nav>li>a,
     .navbar-default .nav>li>a:focus {
@@ -285,26 +285,26 @@ Portfolio CSS Borrowed - End
     }
     .navbar-default .nav>li>a:focus:hover,
     .navbar-default .nav>li>a:hover {
-        color: #fff
+        color: #fff;
     }
     .navbar-default.affix {
         background-color: #fff;
-        border-color: rgba(34, 34, 34, .1)
+        border-color: rgba(34, 34, 34, .1);
     }
     .navbar-default.affix .navbar-header .navbar-brand {
-        color: #222
+        color: #222;
     }
     .navbar-default.affix .navbar-header .navbar-brand:focus,
     .navbar-default.affix .navbar-header .navbar-brand:hover {
-        color: #fdcc52
+        color: #fdcc52;
     }
     .navbar-default.affix .nav>li>a,
     .navbar-default.affix .nav>li>a:focus {
-        color: #222
+        color: #222;
     }
     .navbar-default.affix .nav>li>a:focus:hover,
     .navbar-default.affix .nav>li>a:hover {
-        color: #fdcc52
+        color: #fdcc52;
     }
 }
 
@@ -316,31 +316,31 @@ header {
     background: url(../img/newpatt.png), #1a173f;
     background: url(../img/newpatt.png), -webkit-linear-gradient(to left, #fd3b52, #1a173f);
     background: url(../img/newpatt.png), linear-gradient(to left, #fd3b52, #1a173f);
-    color: #fff
+    color: #fff;
 }
 
 .bannerimg {
 	max-width: none;
     max-height: calc(0vh);
     margin: 100px auto 0;
-	
+
 	}
 
 header .header-content {
     text-align: center;
     padding: 150px 0 50px;
-    position: relative
+    position: relative;
 }
 
 header .header-content .header-content-inner {
     position: relative;
     max-width: 500px;
     margin: 0 auto;
-	
+
 }
 
 header .header-content .header-content-inner ul {
-	list-style:none; 
+	list-style:none;
 	padding-left: 0;
     font-size: 18px;
     margin-bottom: 32px;
@@ -357,17 +357,17 @@ header .header-content .header-content-inner h1 {
 header .header-content .header-content-inner h1 span{color: #fd3d52; }
 
 header .header-content .header-content-inner .list-badges {
-    margin-bottom: 25px
+    margin-bottom: 25px;
 }
 
 header .header-content .header-content-inner .list-badges img {
     height: 50px;
-    margin-bottom: 25px
+    margin-bottom: 25px;
 }
 
 header .device-container {
     max-width: 300px;
-    margin: 0 auto 100px
+    margin: 0 auto 100px;
 }
 
 header .device-container .screen img {
@@ -409,7 +409,7 @@ header .device-container .screen img {
     header .device-container {
         max-width: none;
         max-height: calc(0vh);
-        margin: 300px auto 0
+        margin: 300px;auto 0
     }
 }
 
@@ -425,91 +425,91 @@ section.contact {
 }
 
 section {
-    padding: 100px 0
+    padding: 100px 0;
 }
 
 section h2 {
-    font-size: 50px
+    font-size: 50px;
 }
 
 section.download {
     padding: 150px 0;
-    position: relative
+    position: relative;
 }
 
 section.download h2 {
     margin-top: 0;
-    font-size: 50px
+    font-size: 50px;
 }
 
 section.download .badges .badge-link {
     display: block;
-    margin-bottom: 25px
+    margin-bottom: 25px;
 }
 
 section.download .badges .badge-link:last-child {
-    margin-bottom: 0
+    margin-bottom: 0;
 }
 
 section.download .badges .badge-link img {
-    height: 60px
+    height: 60px;
 }
 
 @media (min-width:768px) {
     section.download .badges .badge-link {
         display: inline-block;
-        margin-bottom: 0
+        margin-bottom: 0;
     }
     section.download h2 {
-        font-size: 70px
+        font-size: 70px;
     }
 }
 
 section.portfolio .section-heading {
-    margin-bottom: 100px
+    margin-bottom: 100px;
 }
 
 section.portfolio .section-heading h2 {
-    margin-top: 0
+    margin-top: 0;
 }
 
 section.portfolio .section-heading p {
-    margin-bottom: 0
+    margin-bottom: 0;
 }
 
 section.portfolio .device-container,
 section.portfolio .feature-item {
     max-width: 300px;
-    margin: 0 auto
+    margin: 0 auto;
 }
 
 section.portfolio .device-container {
-    margin-bottom: 100px
+    margin-bottom: 100px;
 }
 
 @media (min-width:992px) {
     section.portfolio .device-container {
-        margin-bottom: 0
+        margin-bottom: 0;
     }
     section.portfolio .device-container,
     section.portfolio .feature-item {
-        max-width: none
+        max-width: none;
     }
 }
 
 section.portfolio .feature-item {
     text-align: center;
-    margin-bottom: 100px
+    margin-bottom: 100px;
 }
 
 section.contact h2,
 section.cta .cta-content h2 {
     margin-top: 0;
-    margin-bottom: 25px
+    margin-bottom: 25px;
 }
 
 section.portfolio .feature-item h3 {
-    font-size: 30px
+    font-size: 30px;
 }
 
 section.portfolio .feature-item i {
@@ -517,7 +517,7 @@ section.portfolio .feature-item i {
     background: -webkit-linear-gradient(to left, #7b4397, #dc2430);
     background: linear-gradient(to left, #7b4397, #dc2430);
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent
+    -webkit-text-fill-color: transparent;
 }
 
 section.cta {
@@ -528,23 +528,23 @@ section.cta {
     -o-background-size: cover;
     background-position: center;
     background-image: url(../img/bg-cta.jpg);
-    padding: 250px 0
+    padding: 250px 0;
 }
 
 section.cta .cta-content {
     position: relative;
-    z-index: 1
+    z-index: 1;
 }
 
 section.cta .cta-content h2 {
     color: #fff;
     max-width: 450px;
-    font-size: 50px
+    font-size: 50px;
 }
 
 @media (min-width:768px) {
     section.cta .cta-content h2 {
-        font-size: 80px
+        font-size: 80px;
     }
 }
 
@@ -554,16 +554,16 @@ section.cta .overlay {
     background-color: rgba(0, 0, 0, .5);
     position: absolute;
     top: 0;
-    left: 0
+    left: 0;
 }
 
 footer ul,
 section.contact ul.list-social {
-    margin-bottom: 0
+    margin-bottom: 0;
 }
 
 section.contact h2 i {
-    color: #dd4b39
+    color: #dd4b39;
 }
 
 section.contact ul.list-social li a {
@@ -573,41 +573,41 @@ section.contact ul.list-social li a {
     line-height: 80px;
     font-size: 40px;
     border-radius: 100%;
-    color: #fff
+    color: #fff;
 }
 
 footer p,
 footer ul li a {
-    font-size: 12px
+    font-size: 12px;
 }
 
 footer,
 footer ul li a {
-    color: rgba(255, 255, 255, .3)
+    color: rgba(255, 255, 255, .3);
 }
 
 section.contact ul.list-social li.social-twitter a {
-    background-color: #1da1f2
+    background-color: #1da1f2;
 }
 
 section.contact ul.list-social li.social-twitter a:hover {
-    background-color: #0d95e8
+    background-color: #0d95e8;
 }
 
 section.contact ul.list-social li.social-facebook a {
-    background-color: #3b5998
+    background-color: #3b5998;
 }
 
 section.contact ul.list-social li.social-facebook a:hover {
-    background-color: #344e86
+    background-color: #344e86;
 }
 
 section.contact ul.list-social li.social-google-plus a {
-    background-color: #dd4b39
+    background-color: #dd4b39;
 }
 
 section.contact ul.list-social li.social-google-plus a:hover {
-    background-color: #d73925
+    background-color: #d73925;
 }
 
 footer {
@@ -617,33 +617,33 @@ footer {
 }
 
 footer p {
-    margin: 0
+    margin: 0;
 }
 
 footer ul li a.active,
 footer ul li a:active,
 footer ul li a:focus,
 footer ul li a:hover {
-    text-decoration: none
+    text-decoration: none;
 }
 
 .bg-primary {
     background: #fdcc52;
     background: -webkit-linear-gradient(#fdcc52, #fdc539);
-    background: linear-gradient(#fdcc52, #fdc539)
+    background: linear-gradient(#fdcc52, #fdc539);
 }
 
 .text-primary {
-    color: #fdcc52
+    color: #fdcc52;
 }
 
 .no-gutter>[class*=col-] {
     padding-right: 0;
-    padding-left: 0
+    padding-left: 0;
 }
 
 .btn-outline {
-    color: #fff; 
+    color: #fff;
     background: #ff154b;}
 
 .btn-outline.active,
@@ -656,34 +656,34 @@ footer ul li a:hover {
 }
 
 .btn {
-    border-radius: 300px
+    border-radius: 300px;
 }
 
 .btn-xl {
     padding: 15px 45px;
-    font-size: 11px
+    font-size: 11px;
 }
 
 ::-moz-selection {
     color: #fff;
     text-shadow: none;
-    background: #222
+    background: #222;
 }
 
 ::selection {
     color: #fff;
     text-shadow: none;
-    background: #222
+    background: #222;
 }
 
 img::selection {
     color: #fff;
-    background: 0 0
+    background: 0 0;
 }
 
 img::-moz-selection {
     color: #fff;
-    background: 0 0
+    background: 0 0;
 }
 
 /* Skills */
@@ -724,34 +724,34 @@ section.contact a {color:#fd3d52;}
 .resume a {color:#fd3d52; }
 
 @media (max-width: 414px) {
-section.contact h2 {  font-size: 31px;}
+section.contact h2 {  font-size: 31px}
 .me h3 { font-size: 19px;}
 section h2 { font-size: 31px; }
 }
 
 @media (max-height: 1000px){
-	
+
 	header .device-container {
     max-width: none;
     max-height: calc(0vh);
     margin: 200px auto 0;
-	
+
 }
 }
 
 @media (max-width: 414px){
 
 
-	
+
 }
 
 .portfolio-modal .modal-content .item-details a {color: fd3d52;}
 
 @media (max-width: 767px) {
-	
+
 header .device-container {    max-width: 100%;
     max-height: none;
     margin: 0 auto;
-    padding-bottom: 27px;}	
+    padding-bottom: 27px;}
 
 }
