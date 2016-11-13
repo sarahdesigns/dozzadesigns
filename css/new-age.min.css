@@ -379,14 +379,14 @@ header .device-container .screen img {
         min-height: 100%
     }
     header .header-content {
-        text-align: left;
+        text-align: center;
         padding: 0;
         height: 100vh
     }
     header .header-content .header-content-inner {
         max-width: none;
         margin: 0;
-        position: absolute;
+        
         top: 50%;
         transform: translateY(-50%)
     }
@@ -409,7 +409,7 @@ header .device-container .screen img {
     header .device-container {
         max-width: none;
         max-height: calc(0vh);
-        margin: 300px;auto 0
+        margin: 300px auto 0;
     }
 }
 
